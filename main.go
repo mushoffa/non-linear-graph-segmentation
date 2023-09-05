@@ -18,7 +18,7 @@ func main() {
 
 	var points []coordinate.Segment
 
-	// YOUR SEGMENTATION FUNCTION OR PROCESS
+	// YOUR SEGMENTATION FUNCTION OR PROCESS GOES HERE
 
 	// Plot segmentation point against input signal
 	plotter.Plot(signal, data, points)
